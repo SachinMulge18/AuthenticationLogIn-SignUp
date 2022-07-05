@@ -1,0 +1,19 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+}
+
+@media screen and (max-width: 640px){
+  .starting {
+    margin: 3rem 1rem;
+    text-align: center;
+  }
+  
+  .starting h1 {
+    font-size: 3rem;
+  }
+}
